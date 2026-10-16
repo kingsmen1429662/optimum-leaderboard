@@ -1,6 +1,6 @@
 // Replace ONLY the GitHub username below. No trailing slash or repository path.
 // This public read-only service returns Optimum MEE6 leaderboard data only.
-const ALLOWED_ORIGIN = "https://YOUR_GITHUB_USERNAME.github.io";
+const ALLOWED_ORIGIN = "https://kingsmen1429662.github.io";
 const GUILD_ID = "1354818163879182519";
 const recentPages = new Map();
 
